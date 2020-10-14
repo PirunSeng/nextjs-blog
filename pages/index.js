@@ -14,7 +14,7 @@ export default function Home() {
         </h1>
 
         <p className="description">
-          Pirun Seng
+          Pirun Seng :)
         </p>
 
         <div className="grid">
